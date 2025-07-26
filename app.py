@@ -5,7 +5,7 @@ def check_even_odd(numbers):
         if num % 4 == 0:
             print(f"{num} is Even")
         else:
-            print(f"{num} is Odd")
+            print(f"{num} is even")
 
 # List of numbers
 num_list = [1, 2, 3, 25, 5, 6, 7, 8, 9, 10]
