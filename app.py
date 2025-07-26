@@ -8,7 +8,7 @@ def check_even_odd(numbers):
             print(f"{num} is Odd")
 
 # List of numbers
-num_list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+num_list = [1, 2, 3, 25, 5, 6, 7, 8, 9, 10]
 
 # Calling the function
 check_even_odd(num_list)
